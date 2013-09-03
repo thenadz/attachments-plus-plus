@@ -41,7 +41,7 @@ though all documents will be supported.
 **What filetypes are supported by Attachments++?**
 
 That is a long, ever-growing list. As of writing this, a total of **51** 
-filetypes are supported with WordPress version 3.6 or higher, and **40 **
+filetypes are supported with WordPress version 3.6 or higher, and **40** 
 filetypes for lesser versions. These filetypes include all common documents
 from Microsoft Office (doc/docx, ppt/pptx, etc.), as well as many more obscure
 filetypes like Adobe Illustrator, Photoshop, and AutoCad files. If you can think
