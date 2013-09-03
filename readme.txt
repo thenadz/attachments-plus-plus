@@ -19,6 +19,12 @@ download that one-page MS Word document just to read it.
 Additionally, the plugin functions with *any* theme you decide to use. It
 seamlessly integrates into whatever environment it is being used.
 
+*Attachments++ is still being developed, but it is already a valuable tool for
+any WordPress site. If you have any suggestions, please do not hesitate to voice
+them in the support forum! Additionally, if this plugin has helped you, please
+take a moment to [rate
+it](http://wordpress.org/support/view/plugin-reviews/attachments-plus-plus#postform)!*
+
 == Installation ==
 
 1. Upload `attachments-pp` to the `/wp-content/plugins/` directory.
@@ -47,7 +53,8 @@ It does indeed. It is already designed to integrate with <a
 href=\"http://wordpress.org/plugins/google-document-embedder/\">Google Doc
 Embedder</a>, if installed, and plans are in place to support more plugins in
 the future. If you know of a plugin that would make sense to integrate, please
-feel free to suggest it on the support forum!
+feel free to suggest it on the
+<a href=\"http://wordpress.org/support/plugin/attachments-plus-plus/\">support forum</a>!
 
 **It's not working! Help!**
 

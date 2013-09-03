@@ -2,6 +2,7 @@
 
 /*
   Plugin Name: Attachments++
+  Plugin URI: http://wordpress.org/plugins/attachments-plus-plus/
   Description: Plussify your attachments! Attachments++ allows auto-embedding of most document, video and audio files. No need to download that MS Word doc to read.
   Version: 0.6
   Author: Dan Rossiter
